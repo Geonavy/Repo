@@ -1,0 +1,40 @@
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\bin\Debug\net8.0-windows\InterfazJSON.exe
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\bin\Debug\net8.0-windows\InterfazJSON.deps.json
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\bin\Debug\net8.0-windows\InterfazJSON.runtimeconfig.json
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\bin\Debug\net8.0-windows\InterfazJSON.dll
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\bin\Debug\net8.0-windows\InterfazJSON.pdb
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.csproj.AssemblyReference.cache
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.Administrador.resources
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.csproj.GenerateResource.cache
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.GeneratedMSBuildEditorConfig.editorconfig
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.AssemblyInfoInputs.cache
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.AssemblyInfo.cs
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.csproj.CoreCompileInputs.cache
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\obj\Debug\net8.0-windows\Interfaz.1BED7C32.Up2Date
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.dll
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\obj\Debug\net8.0-windows\refint\InterfazJSON.dll
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.pdb
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.genruntimeconfig.cache
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\obj\Debug\net8.0-windows\ref\InterfazJSON.dll
+G:\Documentos\Personal Codespaces and Projects VS\C#\InterfazJSON\bin\Debug\net8.0-windows\Trabajadores.json
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\bin\Debug\net8.0-windows\Trabajadores.json
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\bin\Debug\net8.0-windows\InterfazJSON.exe
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\bin\Debug\net8.0-windows\InterfazJSON.deps.json
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\bin\Debug\net8.0-windows\InterfazJSON.runtimeconfig.json
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\bin\Debug\net8.0-windows\InterfazJSON.dll
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\bin\Debug\net8.0-windows\InterfazJSON.pdb
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.csproj.AssemblyReference.cache
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.Administrador.resources
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.csproj.GenerateResource.cache
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.AssemblyInfoInputs.cache
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.AssemblyInfo.cs
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.csproj.CoreCompileInputs.cache
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\obj\Debug\net8.0-windows\Interfaz.1BED7C32.Up2Date
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.dll
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\obj\Debug\net8.0-windows\refint\InterfazJSON.dll
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.pdb
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\obj\Debug\net8.0-windows\InterfazJSON.genruntimeconfig.cache
+C:\Users\Home\OneDrive\Desktop\Programación\InterfazJSON\obj\Debug\net8.0-windows\ref\InterfazJSON.dll

@@ -1,0 +1,16 @@
+[
+  {
+    "Nombre": "Mauricio",
+    "Apellido": "Benavídez",
+    "Edad": 45,
+    "Oficio": "Contador Público",
+    "Trabajando": false
+  },
+  {
+    "Nombre": "Margarita",
+    "Apellido": "Sánchez",
+    "Edad": 18,
+    "Oficio": "Doctor",
+    "Trabajando": true
+  }
+]
