@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Home\\OneDrive\\Desktop\\Programaci\u00F3n\\InterfazJSON\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAC0AEF8-36B8-4365-A7E3-F98559F6CF8D}|InterfazJSON.csproj|c:\\users\\home\\onedrive\\desktop\\programaci\u00F3n\\interfazjson\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DAC0AEF8-36B8-4365-A7E3-F98559F6CF8D}|InterfazJSON.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DAC0AEF8-36B8-4365-A7E3-F98559F6CF8D}|InterfazJSON.csproj|c:\\users\\home\\onedrive\\desktop\\programaci\u00F3n\\interfazjson\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAC0AEF8-36B8-4365-A7E3-F98559F6CF8D}|InterfazJSON.csproj|solutionrelative:trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAC0AEF8-36B8-4365-A7E3-F98559F6CF8D}|InterfazJSON.csproj|c:\\users\\home\\onedrive\\desktop\\programaci\u00F3n\\interfazjson\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAC0AEF8-36B8-4365-A7E3-F98559F6CF8D}|InterfazJSON.csproj|solutionrelative:administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAC0AEF8-36B8-4365-A7E3-F98559F6CF8D}|InterfazJSON.csproj|c:\\users\\home\\onedrive\\desktop\\programaci\u00F3n\\interfazjson\\administrador.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Trabajador.cs",
               "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Desktop\\Programaci\u00F3n\\InterfazJSON\\Trabajador.cs",
               "RelativeDocumentMoniker": "Trabajador.cs",
@@ -39,7 +39,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Administrador.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Home\\OneDrive\\Desktop\\Programaci\u00F3n\\InterfazJSON\\Administrador.cs",
               "RelativeDocumentMoniker": "Administrador.cs",
